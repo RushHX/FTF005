@@ -1,0 +1,767 @@
+<span style='color:#FFFFFF'>Looking for PID: 117305</span>
+<span style='color:#FFD700'>(PID: 117305) is dead!</span>
+Puedes ignorar esta linea, solo es para CrashDetector, este mensaje es siempre en espanol
+2026-03-01 21:55:35 - <span style='color:#FFD700'>(PID: 117305) is dead!</span>
+2026-03-01 21:55:35 - Finalizando Contento de Consolas
+2026-03-01 21:55:35 - reincinar finalizacion 0
+2026-03-01 21:55:35 - Analyzador Consolas
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/SmartBrainLib-forge-1.20.1-1.15.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.20.jar
+2026-03-01 21:55:35 - prearchivo mod SmartBrainLib-forge-1.20.1-1.15.jar
+2026-03-01 21:55:35 - En Stream SmartBrainLib-forge-1.20.1-1.15.jar cargado correctamente
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Warium 1.2.7.jar
+2026-03-01 21:55:35 - prearchivo mod waystones-forge-1.20.1-14.1.20.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/kotlinforforge-4.12.0-all.jar
+2026-03-01 21:55:35 - En Stream waystones-forge-1.20.1-14.1.20.jar cargado correctamente
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/appleskin-forge-mc1.20.1-2.5.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.129.jar
+2026-03-01 21:55:35 - prearchivo mod kotlinforforge-4.12.0-all.jar
+2026-03-01 21:55:35 - En Stream kotlinforforge-4.12.0-all.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod Warium 1.2.7.jar
+2026-03-01 21:55:35 - En Stream Warium 1.2.7.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod jei-1.20.1-forge-15.20.0.129.jar
+2026-03-01 21:55:35 - En Stream jei-1.20.1-forge-15.20.0.129.jar cargado correctamente
+2026-03-01 21:55:35 - NO tiene clase org.objectweb.asm.ClassReader
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/citadel-2.6.3-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/saturn-mc1.20.1-0.1.3.jar
+2026-03-01 21:55:35 - prearchivo mod appleskin-forge-mc1.20.1-2.5.1.jar
+2026-03-01 21:55:35 - prearchivo mod saturn-mc1.20.1-0.1.3.jar
+2026-03-01 21:55:35 - En Stream saturn-mc1.20.1-0.1.3.jar cargado correctamente
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/smokeleafindustry-0.4.7-1.20.1.jar
+2026-03-01 21:55:35 - prearchivo mod citadel-2.6.3-1.20.1.jar
+2026-03-01 21:55:35 - En Stream citadel-2.6.3-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - NO tiene clase javassist.bytecode.ClassFile
+2026-03-01 21:55:35 - prearchivo mod smokeleafindustry-0.4.7-1.20.1.jar
+2026-03-01 21:55:35 - En Stream smokeleafindustry-0.4.7-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/smokeleafindustry-0.4.7-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+2026-03-01 21:55:35 - En Stream appleskin-forge-mc1.20.1-2.5.1.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/appleskin-forge-mc1.20.1-2.5.1.jar
+2026-03-01 21:55:35 - prearchivo mod cloth-config-11.1.136-forge.jar
+2026-03-01 21:55:35 - En Stream cloth-config-11.1.136-forge.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/balm-forge-1.20.1-7.3.38-all.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/kotlinforforge-4.12.0-all.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Warium 1.2.7.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.129.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/saturn-mc1.20.1-0.1.3.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/citadel-2.6.3-1.20.1.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.20.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/SmartBrainLib-forge-1.20.1-1.15.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Botania-1.20.1-451-FORGE.jar
+2026-03-01 21:55:35 - prearchivo mod balm-forge-1.20.1-7.3.38-all.jar
+2026-03-01 21:55:35 - En Stream balm-forge-1.20.1-7.3.38-all.jar cargado correctamente
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/pomkotsmechs-forge-0.0.1-alpha.3.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/balm-forge-1.20.1-7.3.38-all.jar
+2026-03-01 21:55:35 - prearchivo mod Botania-1.20.1-451-FORGE.jar
+2026-03-01 21:55:35 - En Stream Botania-1.20.1-451-FORGE.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Botania-1.20.1-451-FORGE.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/gpumemleakfix-1.20.1-1.8.jar
+2026-03-01 21:55:35 - prearchivo mod pomkotsmechs-forge-0.0.1-alpha.3.jar
+2026-03-01 21:55:35 - En Stream pomkotsmechs-forge-0.0.1-alpha.3.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/pomkotsmechs-forge-0.0.1-alpha.3.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/xaerominimap-forge-1.20.1-25.3.10.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/block_factorys_bosses-2.0.5-forge-1.20.1.jar
+2026-03-01 21:55:35 - prearchivo mod gpumemleakfix-1.20.1-1.8.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/mowziesmobs-1.7.3.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/naturalist-5.0pre2+forge-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/the_ravenous-2.0.4-forge-1.20.1.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/balm-forge-1.20.1-7.3.38-all.jar!/META-INF/jarjar/kuma-api-forge-20.1.12+1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/geckolib-forge-1.20.1-4.8.3.jar
+2026-03-01 21:55:35 - En Stream gpumemleakfix-1.20.1-1.8.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/gpumemleakfix-1.20.1-1.8.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Iceberg-1.20.1-forge-1.1.25.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/BetterEnd-20.0.6.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/BetterFps-1.4.8.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/weather2-1.20.1-2.8.3.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/[1.20.1] SecurityCraft v1.10.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/mahoutsukai-1.20.1-v1.34.81.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/sophisticatedbackpacks-1.20.1-3.24.24.1538.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/clockworklib-1.20.1-1.0.0.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/spark-1.10.53-forge.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/WunderLib-20.0.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1 (1).jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/mods_optimizer-forge-1.20.1-4.3.0.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Patchouli-1.20.1-84.1-FORGE.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/fabridge-0.0.4-R-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Explorify v1.6.4 f15-88.mod.jar
+2026-03-01 21:55:35 - crear appleskin-forge-mc1.20.1-2.5.1.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod appleskin-forge-mc1.20.1-2.5.1.jar cargado correctamente
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/minecraft-comes-alive-7.6.13+1.20.1-universal.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/tectonic-3.0.17-forge-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/dotf-0.5.2-R-1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar
+2026-03-01 21:55:35 - crear gpumemleakfix-1.20.1-1.8.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod gpumemleakfix-1.20.1-1.8.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod block_factorys_bosses-2.0.5-forge-1.20.1.jar
+2026-03-01 21:55:35 - En Stream block_factorys_bosses-2.0.5-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/block_factorys_bosses-2.0.5-forge-1.20.1.jar
+2026-03-01 21:55:35 - crear saturn-mc1.20.1-0.1.3.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod saturn-mc1.20.1-0.1.3.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod mowziesmobs-1.7.3.jar
+2026-03-01 21:55:35 - En Stream mowziesmobs-1.7.3.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/mowziesmobs-1.7.3.jar
+2026-03-01 21:55:35 - prearchivo mod xaerominimap-forge-1.20.1-25.3.10.jar
+2026-03-01 21:55:35 - En Stream xaerominimap-forge-1.20.1-25.3.10.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/xaerominimap-forge-1.20.1-25.3.10.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/connectivity-1.20.1-7.6.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/VideoPlayer-3.0.5-FORGE-1.20.X.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/infinitygolem-1.0.0-forge-1.20.1.jar
+2026-03-01 21:55:35 - crear balm-forge-1.20.1-7.3.38-all.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod balm-forge-1.20.1-7.3.38-all.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod naturalist-5.0pre2+forge-1.20.1.jar
+2026-03-01 21:55:35 - En Stream naturalist-5.0pre2+forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/naturalist-5.0pre2+forge-1.20.1.jar
+2026-03-01 21:55:35 - crear waystones-forge-1.20.1-14.1.20.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod waystones-forge-1.20.1-14.1.20.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod the_ravenous-2.0.4-forge-1.20.1.jar
+2026-03-01 21:55:35 - En Stream the_ravenous-2.0.4-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - crear SmartBrainLib-forge-1.20.1-1.15.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod SmartBrainLib-forge-1.20.1-1.15.jar cargado correctamente
+2026-03-01 21:55:35 - crear cloth-config-11.1.136-forge.jar cargado correctamente
+2026-03-01 21:55:35 - archivo mod cloth-config-11.1.136-forge.jar cargado correctamente
+2026-03-01 21:55:35 - prearchivo mod mofus_broken_constellation-0.9.0-forge-1.20.1.jar
+2026-03-01 21:55:35 - En Stream mofus_broken_constellation-0.9.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/naturalist-5.0pre2+forge-1.20.1.jar!/META-INF/jars/midnightlib-1.4.2-forge.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/the_ravenous-2.0.4-forge-1.20.1.jar
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/xaerominimap-forge-1.20.1-25.3.10.jar!/META-INF/jarjar/xaerolib-forge-1.20.1-1.1.0.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.2.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/lithostitched-forge-1.20.1-1.4.11.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/aaa-particles-forge-1.20.1-1.4.12.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/crashdetector-0.4.1.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/foamfix-0.10.15-1.12.2.jar
+2026-03-01 21:55:35 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/fzzy_config-0.7.6+1.20.1+forge.jar
+2026-03-01 21:55:35 - prearchivo mod architectury-9.2.14-forge.jar
+2026-03-01 21:55:35 - En Stream architectury-9.2.14-forge.jar cargado correctamente
+2026-03-01 21:55:35 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/common-networking-forge-1.0.5-1.20.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/BCLib-20.0.6.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/midnightlib-forge-1.9.2+1.20.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/corpse-forge-1.20.1-1.0.23.jar
+2026-03-01 21:55:36 - crear smokeleafindustry-0.4.7-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod smokeleafindustry-0.4.7-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod geckolib-forge-1.20.1-4.8.3.jar
+2026-03-01 21:55:36 - En Stream geckolib-forge-1.20.1-4.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/geckolib-forge-1.20.1-4.8.3.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/modernfix-forge-5.26.2+mc1.20.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/cupboard-1.20.1-3.0.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/mobtimizations-forge-1.20.1-1.0.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Terralith_1.20.x_v2.5.4.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Paraglider-forge-20.1.3.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/canary-mc1.20.1-0.3.3.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/pointblank-forge-1.20.1-1.11.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/SkyArena-1.3.6-1.20.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Explosion-Overhaul-0.2.3.0-forge-.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/cbcwarium-1.3.4.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/createbigcannons-5.11.2-mc.1.20.1-forge.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Chunky-1.3.146.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/Structory_1.20.x_v1.3.5.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/coroutil-forge-1.20.1-1.3.7.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/sophisticatedcore-1.20.1-1.3.5.1505.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar
+2026-03-01 21:55:36 - buscardor mod /workspaces/FTF005/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/geckolib-forge-1.20.1-4.8.3.jar!/META-INF/jarjar/mclib-20.jar
+2026-03-01 21:55:36 - crear architectury-9.2.14-forge.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod architectury-9.2.14-forge.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod Iceberg-1.20.1-forge-1.1.25.jar
+2026-03-01 21:55:36 - En Stream Iceberg-1.20.1-forge-1.1.25.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Iceberg-1.20.1-forge-1.1.25.jar
+2026-03-01 21:55:36 - crear pomkotsmechs-forge-0.0.1-alpha.3.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod pomkotsmechs-forge-0.0.1-alpha.3.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod BetterEnd-20.0.6.jar
+2026-03-01 21:55:36 - En Stream BetterEnd-20.0.6.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/BetterEnd-20.0.6.jar
+2026-03-01 21:55:36 - crear jei-1.20.1-forge-15.20.0.129.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod jei-1.20.1-forge-15.20.0.129.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod BetterFps-1.4.8.jar
+2026-03-01 21:55:36 - En Stream BetterFps-1.4.8.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/BetterFps-1.4.8.jar
+2026-03-01 21:55:36 - crear Iceberg-1.20.1-forge-1.1.25.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod Iceberg-1.20.1-forge-1.1.25.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod weather2-1.20.1-2.8.3.jar
+2026-03-01 21:55:36 - En Stream weather2-1.20.1-2.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/weather2-1.20.1-2.8.3.jar
+2026-03-01 21:55:36 - crear geckolib-forge-1.20.1-4.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod geckolib-forge-1.20.1-4.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod [1.20.1] SecurityCraft v1.10.1.jar
+2026-03-01 21:55:36 - En Stream [1.20.1] SecurityCraft v1.10.1.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/[1.20.1] SecurityCraft v1.10.1.jar
+2026-03-01 21:55:36 - crear BetterFps-1.4.8.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod BetterFps-1.4.8.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod mahoutsukai-1.20.1-v1.34.81.jar
+2026-03-01 21:55:36 - En Stream mahoutsukai-1.20.1-v1.34.81.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/mahoutsukai-1.20.1-v1.34.81.jar
+2026-03-01 21:55:36 - crear citadel-2.6.3-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod citadel-2.6.3-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod sophisticatedbackpacks-1.20.1-3.24.24.1538.jar
+2026-03-01 21:55:36 - En Stream sophisticatedbackpacks-1.20.1-3.24.24.1538.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/sophisticatedbackpacks-1.20.1-3.24.24.1538.jar
+2026-03-01 21:55:36 - crear naturalist-5.0pre2+forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod naturalist-5.0pre2+forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod clockworklib-1.20.1-1.0.0.jar
+2026-03-01 21:55:36 - En Stream clockworklib-1.20.1-1.0.0.jar cargado correctamente
+2026-03-01 21:55:36 - crear xaerominimap-forge-1.20.1-25.3.10.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod xaerominimap-forge-1.20.1-25.3.10.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod spark-1.10.53-forge.jar
+2026-03-01 21:55:36 - En Stream spark-1.10.53-forge.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/spark-1.10.53-forge.jar
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/clockworklib-1.20.1-1.0.0.jar
+2026-03-01 21:55:36 - crear clockworklib-1.20.1-1.0.0.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod clockworklib-1.20.1-1.0.0.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod WunderLib-20.0.1.jar
+2026-03-01 21:55:36 - En Stream WunderLib-20.0.1.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/WunderLib-20.0.1.jar
+2026-03-01 21:55:36 - crear the_ravenous-2.0.4-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod the_ravenous-2.0.4-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod midnight-1.20.1-0.6.7.jar
+2026-03-01 21:55:36 - En Stream midnight-1.20.1-0.6.7.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar
+2026-03-01 21:55:36 - crear WunderLib-20.0.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod WunderLib-20.0.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod embeddium-0.3.31+mc1.20.1 (1).jar
+2026-03-01 21:55:36 - En Stream embeddium-0.3.31+mc1.20.1 (1).jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1 (1).jar
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1 (1).jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar
+2026-03-01 21:55:36 - crear sophisticatedbackpacks-1.20.1-3.24.24.1538.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod sophisticatedbackpacks-1.20.1-3.24.24.1538.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod mods_optimizer-forge-1.20.1-4.3.0.jar
+2026-03-01 21:55:36 - En Stream mods_optimizer-forge-1.20.1-4.3.0.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/mods_optimizer-forge-1.20.1-4.3.0.jar
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1 (1).jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar!/META-INF/jars/MixinExtras-0.3.5.jar
+2026-03-01 21:55:36 - crear mods_optimizer-forge-1.20.1-4.3.0.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod mods_optimizer-forge-1.20.1-4.3.0.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod Patchouli-1.20.1-84.1-FORGE.jar
+2026-03-01 21:55:36 - En Stream Patchouli-1.20.1-84.1-FORGE.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Patchouli-1.20.1-84.1-FORGE.jar
+2026-03-01 21:55:36 - crear weather2-1.20.1-2.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod weather2-1.20.1-2.8.3.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod TerraBlender-forge-1.20.1-3.0.1.10.jar
+2026-03-01 21:55:36 - En Stream TerraBlender-forge-1.20.1-3.0.1.10.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
+2026-03-01 21:55:36 - crear TerraBlender-forge-1.20.1-3.0.1.10.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod TerraBlender-forge-1.20.1-3.0.1.10.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod fabridge-0.0.4-R-1.20.1.jar
+2026-03-01 21:55:36 - En Stream fabridge-0.0.4-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/fabridge-0.0.4-R-1.20.1.jar
+2026-03-01 21:55:36 - crear fabridge-0.0.4-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod fabridge-0.0.4-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod Explorify v1.6.4 f15-88.mod.jar
+2026-03-01 21:55:36 - En Stream Explorify v1.6.4 f15-88.mod.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Explorify v1.6.4 f15-88.mod.jar
+2026-03-01 21:55:36 - crear Patchouli-1.20.1-84.1-FORGE.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod Patchouli-1.20.1-84.1-FORGE.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod minecraft-comes-alive-7.6.13+1.20.1-universal.jar
+2026-03-01 21:55:36 - En Stream minecraft-comes-alive-7.6.13+1.20.1-universal.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/minecraft-comes-alive-7.6.13+1.20.1-universal.jar
+2026-03-01 21:55:36 - crear embeddium-0.3.31+mc1.20.1 (1).jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod embeddium-0.3.31+mc1.20.1 (1).jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod tectonic-3.0.17-forge-1.20.1.jar
+2026-03-01 21:55:36 - En Stream tectonic-3.0.17-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/tectonic-3.0.17-forge-1.20.1.jar
+2026-03-01 21:55:36 - crear Explorify v1.6.4 f15-88.mod.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod Explorify v1.6.4 f15-88.mod.jar cargado correctamente
+2026-03-01 21:55:36 - prearchivo mod harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar
+2026-03-01 21:55:36 - En Stream harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar
+2026-03-01 21:55:36 - crear tectonic-3.0.17-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:36 - archivo mod tectonic-3.0.17-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod xaeroworldmap-forge-1.20.1-1.40.11.jar
+2026-03-01 21:55:37 - En Stream xaeroworldmap-forge-1.20.1-1.40.11.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar
+2026-03-01 21:55:37 - crear harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod dotf-0.5.2-R-1.20.1.jar
+2026-03-01 21:55:37 - En Stream dotf-0.5.2-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/dotf-0.5.2-R-1.20.1.jar
+2026-03-01 21:55:37 - crear [1.20.1] SecurityCraft v1.10.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod [1.20.1] SecurityCraft v1.10.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod CreativeCore_FORGE_v2.12.35_mc1.20.1.jar
+2026-03-01 21:55:37 - En Stream CreativeCore_FORGE_v2.12.35_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar
+2026-03-01 21:55:37 - crear spark-1.10.53-forge.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod spark-1.10.53-forge.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod connectivity-1.20.1-7.6.jar
+2026-03-01 21:55:37 - En Stream connectivity-1.20.1-7.6.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/connectivity-1.20.1-7.6.jar
+2026-03-01 21:55:37 - crear connectivity-1.20.1-7.6.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod connectivity-1.20.1-7.6.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod VideoPlayer-3.0.5-FORGE-1.20.X.jar
+2026-03-01 21:55:37 - En Stream VideoPlayer-3.0.5-FORGE-1.20.X.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/VideoPlayer-3.0.5-FORGE-1.20.X.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar!/META-INF/jarjar/xaerolib-forge-1.20.1-1.1.0.jar
+2026-03-01 21:55:37 - crear VideoPlayer-3.0.5-FORGE-1.20.X.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod VideoPlayer-3.0.5-FORGE-1.20.X.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod infinitygolem-1.0.0-forge-1.20.1.jar
+2026-03-01 21:55:37 - En Stream infinitygolem-1.0.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/infinitygolem-1.0.0-forge-1.20.1.jar
+2026-03-01 21:55:37 - crear infinitygolem-1.0.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod infinitygolem-1.0.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar
+2026-03-01 21:55:37 - En Stream ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar
+2026-03-01 21:55:37 - crear ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+2026-03-01 21:55:37 - En Stream PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/geckolib-forge-1.20.1-4.4.7.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/geckolib-forge-1.20.1-4.4.7.jar!/META-INF/jarjar/mclib-20.jar
+2026-03-01 21:55:37 - crear CreativeCore_FORGE_v2.12.35_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod CreativeCore_FORGE_v2.12.35_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod curios-forge-5.14.1+1.20.1.jar
+2026-03-01 21:55:37 - En Stream curios-forge-5.14.1+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+2026-03-01 21:55:37 - crear xaeroworldmap-forge-1.20.1-1.40.11.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod xaeroworldmap-forge-1.20.1-1.40.11.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod Psychadelic-Chemistry_1.20.1-1.4.5.jar
+2026-03-01 21:55:37 - En Stream Psychadelic-Chemistry_1.20.1-1.4.5.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar!/META-INF/jars/MixinExtras-0.3.5.jar
+2026-03-01 21:55:37 - crear curios-forge-5.14.1+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod curios-forge-5.14.1+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod Jade-1.20.1-Forge-11.13.2.jar
+2026-03-01 21:55:37 - En Stream Jade-1.20.1-Forge-11.13.2.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.2.jar
+2026-03-01 21:55:37 - crear PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod lithostitched-forge-1.20.1-1.4.11.jar
+2026-03-01 21:55:37 - En Stream lithostitched-forge-1.20.1-1.4.11.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/lithostitched-forge-1.20.1-1.4.11.jar
+2026-03-01 21:55:37 - crear mofus_broken_constellation-0.9.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod mofus_broken_constellation-0.9.0-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod create-1.20.1-6.0.8.jar
+2026-03-01 21:55:37 - En Stream create-1.20.1-6.0.8.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar
+2026-03-01 21:55:37 - crear Jade-1.20.1-Forge-11.13.2.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod Jade-1.20.1-Forge-11.13.2.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod aaa-particles-forge-1.20.1-1.4.12.jar
+2026-03-01 21:55:37 - En Stream aaa-particles-forge-1.20.1-1.4.12.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/aaa-particles-forge-1.20.1-1.4.12.jar
+2026-03-01 21:55:37 - crear lithostitched-forge-1.20.1-1.4.11.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod lithostitched-forge-1.20.1-1.4.11.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod crashdetector-0.4.1.jar
+2026-03-01 21:55:37 - En Stream crashdetector-0.4.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/crashdetector-0.4.1.jar
+2026-03-01 21:55:37 - crear mahoutsukai-1.20.1-v1.34.81.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod mahoutsukai-1.20.1-v1.34.81.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod foamfix-0.10.15-1.12.2.jar
+2026-03-01 21:55:37 - En Stream foamfix-0.10.15-1.12.2.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/foamfix-0.10.15-1.12.2.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/registry-1.20.1-2.0.0-beta.11.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/registry-1.20.1-2.0.0-beta.11.jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnight-1.20.1-0.6.7.jar!/META-INF/jarjar/registry-1.20.1-2.0.0-beta.11.jar!/META-INF/jarjar/mixinextras-forge-0.3.5.jar!/META-INF/jars/MixinExtras-0.3.5.jar
+2026-03-01 21:55:37 - crear foamfix-0.10.15-1.12.2.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod foamfix-0.10.15-1.12.2.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod fzzy_config-0.7.6+1.20.1+forge.jar
+2026-03-01 21:55:37 - En Stream fzzy_config-0.7.6+1.20.1+forge.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/fzzy_config-0.7.6+1.20.1+forge.jar
+2026-03-01 21:55:37 - crear Botania-1.20.1-451-FORGE.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod Botania-1.20.1-451-FORGE.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod common-networking-forge-1.0.5-1.20.1.jar
+2026-03-01 21:55:37 - En Stream common-networking-forge-1.0.5-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/common-networking-forge-1.0.5-1.20.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/fzzy_config-0.7.6+1.20.1+forge.jar!/META-INF/jars/jankson-1.2.3.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/aaa-particles-forge-1.20.1-1.4.12.jar!/META-INF/jars/architectury-forge-9.2.14.jar
+2026-03-01 21:55:37 - crear common-networking-forge-1.0.5-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod common-networking-forge-1.0.5-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod BCLib-20.0.6.jar
+2026-03-01 21:55:37 - En Stream BCLib-20.0.6.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/BCLib-20.0.6.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar!/META-INF/jarjar/Ponder-Forge-1.20.1-1.0.91.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/fzzy_config-0.7.6+1.20.1+forge.jar!/META-INF/jars/tomlkt-jvm-0.3.7.jar
+2026-03-01 21:55:37 - crear Warium 1.2.7.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod Warium 1.2.7.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod midnightlib-forge-1.9.2+1.20.1.jar
+2026-03-01 21:55:37 - En Stream midnightlib-forge-1.9.2+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/midnightlib-forge-1.9.2+1.20.1.jar
+2026-03-01 21:55:37 - crear midnightlib-forge-1.9.2+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod midnightlib-forge-1.9.2+1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod corpse-forge-1.20.1-1.0.23.jar
+2026-03-01 21:55:37 - En Stream corpse-forge-1.20.1-1.0.23.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/corpse-forge-1.20.1-1.0.23.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/aaa-particles-forge-1.20.1-1.4.12.jar!/META-INF/jars/mixinextras-forge-0.4.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/aaa-particles-forge-1.20.1-1.4.12.jar!/META-INF/jars/mixinextras-forge-0.4.1.jar!/META-INF/jars/MixinExtras-0.4.1.jar
+2026-03-01 21:55:37 - crear corpse-forge-1.20.1-1.0.23.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod corpse-forge-1.20.1-1.0.23.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod modernfix-forge-5.26.2+mc1.20.1.jar
+2026-03-01 21:55:37 - En Stream modernfix-forge-5.26.2+mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/modernfix-forge-5.26.2+mc1.20.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/modernfix-forge-5.26.2+mc1.20.1.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/modernfix-forge-5.26.2+mc1.20.1.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar!/META-INF/jars/MixinExtras-0.4.1.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar!/META-INF/jarjar/Registrate-MC1.20-1.3.3.jar
+2026-03-01 21:55:37 - crear modernfix-forge-5.26.2+mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod modernfix-forge-5.26.2+mc1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod cupboard-1.20.1-3.0.jar
+2026-03-01 21:55:37 - En Stream cupboard-1.20.1-3.0.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/cupboard-1.20.1-3.0.jar
+2026-03-01 21:55:37 - crear cupboard-1.20.1-3.0.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod cupboard-1.20.1-3.0.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod mobtimizations-forge-1.20.1-1.0.1.jar
+2026-03-01 21:55:37 - En Stream mobtimizations-forge-1.20.1-1.0.1.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/mobtimizations-forge-1.20.1-1.0.1.jar
+2026-03-01 21:55:37 - crear mobtimizations-forge-1.20.1-1.0.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod mobtimizations-forge-1.20.1-1.0.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod Terralith_1.20.x_v2.5.4.jar
+2026-03-01 21:55:37 - En Stream Terralith_1.20.x_v2.5.4.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Terralith_1.20.x_v2.5.4.jar
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar!/META-INF/jarjar/flywheel-forge-1.20.1-1.0.5.jar
+2026-03-01 21:55:37 - crear crashdetector-0.4.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod crashdetector-0.4.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod Paraglider-forge-20.1.3.jar
+2026-03-01 21:55:37 - En Stream Paraglider-forge-20.1.3.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Paraglider-forge-20.1.3.jar
+2026-03-01 21:55:37 - crear block_factorys_bosses-2.0.5-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - archivo mod block_factorys_bosses-2.0.5-forge-1.20.1.jar cargado correctamente
+2026-03-01 21:55:37 - prearchivo mod canary-mc1.20.1-0.3.3.jar
+2026-03-01 21:55:37 - En Stream canary-mc1.20.1-0.3.3.jar cargado correctamente
+2026-03-01 21:55:37 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/canary-mc1.20.1-0.3.3.jar
+2026-03-01 21:55:38 - crear BCLib-20.0.6.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod BCLib-20.0.6.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod pointblank-forge-1.20.1-1.11.1.jar
+2026-03-01 21:55:38 - En Stream pointblank-forge-1.20.1-1.11.1.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/pointblank-forge-1.20.1-1.11.1.jar
+2026-03-01 21:55:38 - crear fzzy_config-0.7.6+1.20.1+forge.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod fzzy_config-0.7.6+1.20.1+forge.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod SkyArena-1.3.6-1.20.1.jar
+2026-03-01 21:55:38 - En Stream SkyArena-1.3.6-1.20.1.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/SkyArena-1.3.6-1.20.1.jar
+2026-03-01 21:55:38 - crear Paraglider-forge-20.1.3.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod Paraglider-forge-20.1.3.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod Explosion-Overhaul-0.2.3.0-forge-.jar
+2026-03-01 21:55:38 - En Stream Explosion-Overhaul-0.2.3.0-forge-.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Explosion-Overhaul-0.2.3.0-forge-.jar
+2026-03-01 21:55:38 - crear canary-mc1.20.1-0.3.3.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod canary-mc1.20.1-0.3.3.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod cbcwarium-1.3.4.jar
+2026-03-01 21:55:38 - En Stream cbcwarium-1.3.4.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/cbcwarium-1.3.4.jar
+2026-03-01 21:55:38 - crear SkyArena-1.3.6-1.20.1.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod SkyArena-1.3.6-1.20.1.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod AdvancementPlaques-1.20.1-forge-1.6.9.jar
+2026-03-01 21:55:38 - En Stream AdvancementPlaques-1.20.1-forge-1.6.9.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar
+2026-03-01 21:55:38 - crear AdvancementPlaques-1.20.1-forge-1.6.9.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod AdvancementPlaques-1.20.1-forge-1.6.9.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod createbigcannons-5.11.2-mc.1.20.1-forge.jar
+2026-03-01 21:55:38 - En Stream createbigcannons-5.11.2-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/createbigcannons-5.11.2-mc.1.20.1-forge.jar
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/createbigcannons-5.11.2-mc.1.20.1-forge.jar!/META-INF/jars/mixinextras-forge-0.4.1.jar
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/createbigcannons-5.11.2-mc.1.20.1-forge.jar!/META-INF/jars/mixinextras-forge-0.4.1.jar!/META-INF/jars/MixinExtras-0.4.1.jar
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/create-1.20.1-6.0.8.jar!/META-INF/jarjar/mixinextras-forge-0.4.1.jar!/META-INF/jars/MixinExtras-0.4.1.jar
+2026-03-01 21:55:38 - crear cbcwarium-1.3.4.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod cbcwarium-1.3.4.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod Chunky-1.3.146.jar
+2026-03-01 21:55:38 - En Stream Chunky-1.3.146.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Chunky-1.3.146.jar
+2026-03-01 21:55:38 - crear Chunky-1.3.146.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod Chunky-1.3.146.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod sound-physics-remastered-forge-1.20.1-1.4.10.jar
+2026-03-01 21:55:38 - En Stream sound-physics-remastered-forge-1.20.1-1.4.10.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar
+2026-03-01 21:55:38 - crear sound-physics-remastered-forge-1.20.1-1.4.10.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod sound-physics-remastered-forge-1.20.1-1.4.10.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod GlitchCore-forge-1.20.1-0.0.1.1.jar
+2026-03-01 21:55:38 - En Stream GlitchCore-forge-1.20.1-0.0.1.1.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+2026-03-01 21:55:38 - crear GlitchCore-forge-1.20.1-0.0.1.1.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod GlitchCore-forge-1.20.1-0.0.1.1.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod Structory_1.20.x_v1.3.5.jar
+2026-03-01 21:55:38 - En Stream Structory_1.20.x_v1.3.5.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/Structory_1.20.x_v1.3.5.jar
+2026-03-01 21:55:38 - crear createbigcannons-5.11.2-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod createbigcannons-5.11.2-mc.1.20.1-forge.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod coroutil-forge-1.20.1-1.3.7.jar
+2026-03-01 21:55:38 - En Stream coroutil-forge-1.20.1-1.3.7.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/coroutil-forge-1.20.1-1.3.7.jar
+2026-03-01 21:55:38 - crear coroutil-forge-1.20.1-1.3.7.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod coroutil-forge-1.20.1-1.3.7.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod sophisticatedcore-1.20.1-1.3.5.1505.jar
+2026-03-01 21:55:38 - En Stream sophisticatedcore-1.20.1-1.3.5.1505.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/sophisticatedcore-1.20.1-1.3.5.1505.jar
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kfflang-4.12.0.jar
+2026-03-01 21:55:38 - crear aaa-particles-forge-1.20.1-1.4.12.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod aaa-particles-forge-1.20.1-1.4.12.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar
+2026-03-01 21:55:38 - En Stream superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar
+2026-03-01 21:55:38 - crear sophisticatedcore-1.20.1-1.3.5.1505.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod sophisticatedcore-1.20.1-1.3.5.1505.jar cargado correctamente
+2026-03-01 21:55:38 - prearchivo mod ferritecore-6.0.1-forge.jar
+2026-03-01 21:55:38 - En Stream ferritecore-6.0.1-forge.jar cargado correctamente
+2026-03-01 21:55:38 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+2026-03-01 21:55:38 - crear minecraft-comes-alive-7.6.13+1.20.1-universal.jar cargado correctamente
+2026-03-01 21:55:38 - archivo mod minecraft-comes-alive-7.6.13+1.20.1-universal.jar cargado correctamente
+2026-03-01 21:55:39 - crear Structory_1.20.x_v1.3.5.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod Structory_1.20.x_v1.3.5.jar cargado correctamente
+2026-03-01 21:55:39 - crear pointblank-forge-1.20.1-1.11.1.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod pointblank-forge-1.20.1-1.11.1.jar cargado correctamente
+2026-03-01 21:55:39 - crear midnight-1.20.1-0.6.7.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod midnight-1.20.1-0.6.7.jar cargado correctamente
+2026-03-01 21:55:39 - crear Psychadelic-Chemistry_1.20.1-1.4.5.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod Psychadelic-Chemistry_1.20.1-1.4.5.jar cargado correctamente
+2026-03-01 21:55:39 - crear ferritecore-6.0.1-forge.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod ferritecore-6.0.1-forge.jar cargado correctamente
+2026-03-01 21:55:39 - crear Terralith_1.20.x_v2.5.4.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod Terralith_1.20.x_v2.5.4.jar cargado correctamente
+2026-03-01 21:55:39 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kfflib-4.12.0.jar
+2026-03-01 21:55:39 - crear create-1.20.1-6.0.8.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod create-1.20.1-6.0.8.jar cargado correctamente
+2026-03-01 21:55:39 - crear mowziesmobs-1.7.3.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod mowziesmobs-1.7.3.jar cargado correctamente
+2026-03-01 21:55:39 - en mod pkzip /workspaces/FTF005/servidor_minecraft/mods/kotlinforforge-4.12.0-all.jar!/META-INF/jarjar/kffmod-4.12.0.jar
+2026-03-01 21:55:39 - crear dotf-0.5.2-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod dotf-0.5.2-R-1.20.1.jar cargado correctamente
+2026-03-01 21:55:39 - crear kotlinforforge-4.12.0-all.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod kotlinforforge-4.12.0-all.jar cargado correctamente
+2026-03-01 21:55:39 - crear superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar cargado correctamente
+2026-03-01 21:55:39 - archivo mod superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar cargado correctamente
+2026-03-01 21:55:40 - crear Explosion-Overhaul-0.2.3.0-forge-.jar cargado correctamente
+2026-03-01 21:55:40 - archivo mod Explosion-Overhaul-0.2.3.0-forge-.jar cargado correctamente
+2026-03-01 21:55:40 - crear BetterEnd-20.0.6.jar cargado correctamente
+2026-03-01 21:55:40 - archivo mod BetterEnd-20.0.6.jar cargado correctamente
+2026-03-01 21:55:40 - Iniciando análisis de 1 registros
+2026-03-01 21:55:40 - Analizador paralelo (normales) con hilos=8
+2026-03-01 21:55:40 - comenz analiz
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.NoClassDefFoundError: com/sun/jna/Platform
+2026-03-01 21:55:40 - com/sun/jna/Platform
+2026-03-01 21:55:40 - Origen identificado: oshi-core-6.2.2.jar
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+2026-03-01 21:55:40 - com.sun.jna.Platform
+2026-03-01 21:55:40 - Origen identificado: oshi-core-6.2.2.jar
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.legacy.lucent.api.data.objects.ItemLighting$Builder
+2026-03-01 21:55:40 - com.legacy.lucent.api.data.objects.ItemLighting$Builder
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.legacy.lucent.api.data.objects.EntityLighting$Builder
+2026-03-01 21:55:40 - com.legacy.lucent.api.data.objects.EntityLighting$Builder
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: uk.co.dotcode.asb.ModUtils
+2026-03-01 21:55:40 - uk.co.dotcode.asb.ModUtils
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.Polarice3.Goety.common.entities.boss.Vizier
+2026-03-01 21:55:40 - com.Polarice3.Goety.common.entities.boss.Vizier
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.The_Harbinger_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.The_Harbinger_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.SupremeBonescallerEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.SupremeBonescallerEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.SpiritGuideEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.SpiritGuideEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.SiameseSkeletonsrightEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.SiameseSkeletonsrightEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.SiameseSkeletonsleftEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.SiameseSkeletonsleftEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.SiameseSkeletonsEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.SiameseSkeletonsEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Scylla.Scylla_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Scylla.Scylla_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.NewNetherite_Monstrosity.Netherite_Monstrosity_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.NewNetherite_Monstrosity.Netherite_Monstrosity_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.MotherSpiderEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.MotherSpiderEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Maledictus.Maledictus_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Maledictus.Maledictus_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.majruszsdifficulty.treasurebag.listeners.KillRewarder
+2026-03-01 21:55:40 - com.majruszsdifficulty.treasurebag.listeners.KillRewarder
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.eeeab.eeeabsmobs.sever.entity.guling.EntityGulingSentinelHeavy
+2026-03-01 21:55:40 - com.eeeab.eeeabsmobs.sever.entity.guling.EntityGulingSentinelHeavy
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.eeeab.eeeabsmobs.sever.entity.corpse.EntityCorpseWarlock
+2026-03-01 21:55:40 - com.eeeab.eeeabsmobs.sever.entity.corpse.EntityCorpseWarlock
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.Ender_Guardian_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.AnimationMonster.BossMonsters.Ender_Guardian_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.DireHoundLeaderEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.DireHoundLeaderEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: net.mcreator.borninchaosv.entity.BonescallerEntity
+2026-03-01 21:55:40 - net.mcreator.borninchaosv.entity.BonescallerEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Ancient_Remnant.Ancient_Remnant_Entity
+2026-03-01 21:55:40 - com.github.L_Ender.cataclysm.entity.InternalAnimationMonster.IABossMonsters.Ancient_Remnant.Ancient_Remnant_Entity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity
+2026-03-01 21:55:40 - xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity
+2026-03-01 21:55:40 - procesarErrorClaseNoEncontrada java.lang.ClassNotFoundException: com.happysg.radar.compat.cbc.CannonUtil
+2026-03-01 21:55:40 - com.happysg.radar.compat.cbc.CannonUtil
+2026-03-01 21:55:40 - reinciar vdst
+2026-03-01 21:55:40 - Analizando registro: cd_launcherlog
+2026-03-01 21:55:40 - cd_launcherlog WaterMediaVLC
+2026-03-01 21:55:40 - cd_launcherlog Missing mod
+2026-03-01 21:55:40 - cd_launcherlog Conflict between OptiFine and Entity Model Features
+2026-03-01 21:55:40 - cd_launcherlog Terrain Shadows (Iris)
+2026-03-01 21:55:40 - cd_launcherlog Theseus incompatible
+2026-03-01 21:55:40 - cd_launcherlog Null BlockItem in Create addon
+2026-03-01 21:55:40 - cd_launcherlog Recommended mods missing
+2026-03-01 21:55:40 - cd_launcherlog OptiFine and Embeddium Conflict
+2026-03-01 21:55:40 - cd_launcherlog Invalid path: disallowed characters
+2026-03-01 21:55:40 - cd_launcherlog Voice Chat: UDP port occupied or invalid IP
+2026-03-01 21:55:40 - cd_launcherlog LexForge Transformer Used in NeoForge
+2026-03-01 21:55:40 - cd_launcherlog Interface Method Not Implemented (AbstractMethodError)
+2026-03-01 21:55:40 - cd_launcherlog OptiFine and Rubidium Conflict
+2026-03-01 21:55:40 - cd_launcherlog Forge: language provider failed to load
+2026-03-01 21:55:40 - cd_launcherlog Compression error (TACZ)
+2026-03-01 21:55:40 - cd_launcherlog Invalid Access Transformer
+2026-03-01 21:55:40 - cd_launcherlog Outdated/Incompatible OptiFine
+2026-03-01 21:55:40 - cd_launcherlog Library Initialized Too Early
+2026-03-01 21:55:40 - cd_launcherlog GregTechEasyCore with incompatible Java version
+2026-03-01 21:55:40 - cd_launcherlog Block rendering error
+2026-03-01 21:55:40 - cd_launcherlog World Corrupted: Error loading NBT data
+2026-03-01 21:55:40 - cd_launcherlog Failed to create resource model
+2026-03-01 21:55:40 - cd_launcherlog Mod initialisation error (Fabric Entrypoint)
+2026-03-01 21:55:40 - cd_launcherlog Missing plugin dependency
+2026-03-01 21:55:40 - cd_launcherlog Iris and Distant Horizons Compatibility
+2026-03-01 21:55:40 - cd_launcherlog mismatched records
+2026-03-01 21:55:40 - cd_launcherlog Critical Error: healight - Field 'INT' not found
+2026-03-01 21:55:40 - cd_launcherlog Missing Jackson module in Groovy Modloader
+2026-03-01 21:55:40 - cd_launcherlog Invalid name in Every Compat
+2026-03-01 21:55:40 - cd_launcherlog Obsolete Rubidium with Iris/Oculus (OptionInstance is final)
+2026-03-01 21:55:40 - cd_launcherlog OptiFine on dedicated server
+2026-03-01 21:55:40 - cd_launcherlog TLauncher unsupported by WATERMeDIA
+2026-03-01 21:55:40 - cd_launcherlog JEI Plugin Failed - Causes Crash
+2026-03-01 21:55:40 - cd_launcherlog Field Not Found (NoSuchFieldError)
+2026-03-01 21:55:40 - cd_launcherlog Critical missing classes
+2026-03-01 21:55:40 - cd_launcherlog Corrupted JAR file (with specific name)
+2026-03-01 21:55:40 - cd_launcherlog Duplicate World
+2026-03-01 21:55:40 - cd_launcherlog UraniumLag
+2026-03-01 21:55:40 - cd_launcherlog FreeCam on dedicated server
+2026-03-01 21:55:40 - cd_launcherlog Error code -1073741819
+2026-03-01 21:55:40 - cd_launcherlog Crash: Twilight Forest + Intel Drivers
+2026-03-01 21:55:40 - cd_launcherlog Failed ModLauncher services
+2026-03-01 21:55:40 - cd_launcherlog UnionFileSystem Error - Corrupted File
+2026-03-01 21:55:40 - cd_launcherlog JEI: Item Group crash (incompatible plugin)
+2026-03-01 21:55:40 - cd_launcherlog WaterMedia incompatible with Xenon
+2026-03-01 21:55:40 - cd_launcherlog LuckPerms not loaded
+2026-03-01 21:55:40 - cd_launcherlog Incompatible Mod in Fabric
+2026-03-01 21:55:40 - cd_launcherlog MCEF initialisation issue (embedded browser mod)
+2026-03-01 21:55:40 - cd_launcherlog Problematic SpongeMixing configurations
+2026-03-01 21:55:40 - cd_launcherlog Transformer Audits
+2026-03-01 21:55:40 - cd_launcherlog Texture Resolution Error
+2026-03-01 21:55:40 - cd_launcherlog ID Conflict
+2026-03-01 21:55:40 - cd_launcherlog Incomplete CurseForge console
+2026-03-01 21:55:40 - cd_launcherlog Ambiguous plugin name issue
+2026-03-01 21:55:40 - cd_launcherlog KubeJS resource error
+2026-03-01 21:55:40 - cd_launcherlog Controllable on dedicated server
+2026-03-01 21:55:40 - cd_launcherlog NoSuchElementException (No Element Exception) Missing Animation
+2026-03-01 21:55:40 - cd_launcherlog Exception while executing plugin command
+2026-03-01 21:55:40 - cd_launcherlog Mod version mismatch in saved world
+2026-03-01 21:55:40 - cd_launcherlog LegacyRandomSource Multi Threads
+2026-03-01 21:55:40 - cd_launcherlog Falling Attack version error
+2026-03-01 21:55:40 - cd_launcherlog Duplicated mods in ModLauncher
+2026-03-01 21:55:40 - cd_launcherlog Invalid mod version (SemVer)
+2026-03-01 21:55:40 - cd_launcherlog Discouraged mods detected
+2026-03-01 21:55:40 - cd_launcherlog Create 6: Steam & Railways (alpha)
+2026-03-01 21:55:40 - cd_launcherlog Failed to write configuration file
+2026-03-01 21:55:40 - cd_launcherlog Independent Flywheel
+2026-03-01 21:55:40 - cd_launcherlog Task Execution Failures
+2026-03-01 21:55:40 - cd_launcherlog Display mode failure (LWJGL)
+2026-03-01 21:55:40 - cd_launcherlog Class Registered Without Event Listeners
+2026-03-01 21:55:40 - cd_launcherlog Supplementaries prevents server loading
+2026-03-01 21:55:40 - cd_launcherlog Corrupted MCForge configuration
+2026-03-01 21:55:40 - cd_launcherlog Sound System Initialization Error
+2026-03-01 21:55:40 - cd_launcherlog Service Configuration Error (IDependencyLocator)
+2026-03-01 21:55:40 - cd_launcherlog Attempted to load world from newer version
+2026-03-01 21:55:40 - cd_launcherlog Incompatible Java versions
+2026-03-01 21:55:41 - cd_launcherlog Invalid Java GC options
+2026-03-01 21:55:41 - cd_launcherlog Tampering detected
+2026-03-01 21:55:41 - cd_launcherlog Conflict between OptiFine and Epic Fight
+2026-03-01 21:55:41 - cd_launcherlog Missing mod in datapack
+2026-03-01 21:55:41 - cd_launcherlog Instalación incompleta de Forge
+2026-03-01 21:55:41 - cd_launcherlog Conflict: Multiworld with performance mods
+2026-03-01 21:55:41 - cd_launcherlog Plugin with runtime error
+2026-03-01 21:55:41 - cd_launcherlog Suspicious mod detected
+2026-03-01 21:55:41 - cd_launcherlog Mod incompatible with active loader
+2026-03-01 21:55:41 - cd_launcherlog Missing ModLauncher dependencies
+2026-03-01 21:55:41 - cd_launcherlog MusicManager error in Reign of Nether
+2026-03-01 21:55:41 - cd_launcherlog Native SafeFetch32 error in JDK 17.0.9 (macOS)
+2026-03-01 21:55:41 - cd_launcherlog Multiverse world loading issue
+2026-03-01 21:55:41 - cd_launcherlog Failure in Automatic Subscriber Registration
+2026-03-01 21:55:41 - cd_launcherlog Attempt to inherit from a final class
+2026-03-01 21:55:41 - cd_launcherlog Client-side class loaded on server (AnimationMetadataSection)
+2026-03-01 21:55:41 - cd_launcherlog JPMS: Illegal access between modules
+2026-03-01 21:55:41 - cd_launcherlog Entity Texture Features on dedicated server
+2026-03-01 21:55:41 - cd_launcherlog Plugin incompatible with Regional Ticking
+2026-03-01 21:55:41 - cd_launcherlog Missing plugin dependency
+2026-03-01 21:55:41 - cd_launcherlog Early window error (FMLEarlyWindow)
+2026-03-01 21:55:41 - cd_launcherlog Mod on Wrong Platform
+2026-03-01 21:55:41 - cd_launcherlog Mod with Critical Error
+2026-03-01 21:55:41 - cd_launcherlog Iron's Spellbooks version error
+2026-03-01 21:55:41 - cd_launcherlog World file locked by another process
+2026-03-01 21:55:41 - cd_launcherlog Iris shaderpack not loaded
+2026-03-01 21:55:41 - cd_launcherlog Invalid Characters in Mod Name
+2026-03-01 21:55:41 - cd_launcherlog ModLauncher Path Error
+2026-03-01 21:55:41 - cd_launcherlog IdleTweaks error (unknown network channel)
+2026-03-01 21:55:41 - cd_launcherlog Invalid version in mod
+2026-03-01 21:55:41 - cd_launcherlog Non-recommended launcher
+2026-03-01 21:55:41 - Lanzer Actual otra
+2026-03-01 21:55:41 - cd_launcherlog Failed to parse JSON registry
+2026-03-01 21:55:41 - cd_launcherlog Registry key with uppercase or invalid characters
+2026-03-01 21:55:41 - cd_launcherlog Incompatibility: Simple Clouds vs Shaders
+2026-03-01 21:55:41 - cd_launcherlog Discouraged launcher
+2026-03-01 21:55:41 - cd_launcherlog Floral Enchantments Error
+2026-03-01 21:55:41 - cd_launcherlog Video driver issues
+2026-03-01 21:55:41 - cd_launcherlog Missing JPMS modules
+2026-03-01 21:55:41 - cd_launcherlog Different From Mods
+2026-03-01 21:55:41 - cd_launcherlog Shutdown issue caused by AuthMe
+2026-03-01 21:55:41 - cd_launcherlog False malware detection
+2026-03-01 21:55:41 - cd_launcherlog Sodium required for Iris
+2026-03-01 21:55:41 - cd_launcherlog Error in En Garde! mod
+2026-03-01 21:55:41 - cd_launcherlog Mismatch between @Mod and mods.toml
+2026-03-01 21:55:41 - cd_launcherlog OpenGL Context Error
+2026-03-01 21:55:41 - cd_launcherlog Mixin: class misplaced in mixin package
+2026-03-01 21:55:41 - cd_launcherlog JPMS module conflicts
+2026-03-01 21:55:41 - cd_launcherlog Immersive Tooltips missing dependency
+2026-03-01 21:55:41 - cd_launcherlog MoniLabs and Connector Extras Conflict
+2026-03-01 21:55:41 - cd_launcherlog Crash: Lets Do Compat (RecipeManager intercept)
+2026-03-01 21:55:41 - cd_launcherlog Critical server tick (60s)
+2026-03-01 21:55:41 - cd_launcherlog Missing mod dependency
+2026-03-01 21:55:41 - cd_launcherlog Mod incompatible with Minecraft
+2026-03-01 21:55:41 - cd_launcherlog Long Server Tick
+2026-03-01 21:55:41 - cd_launcherlog Conflict between OptiFine and Fusion
+2026-03-01 21:55:41 - cd_launcherlog Incompatible language provider
+2026-03-01 21:55:41 - cd_launcherlog Sinytra Connector Configuration Corrupted
+2026-03-01 21:55:41 - cd_launcherlog Duplicate Mod in Fabric
+2026-03-01 21:55:41 - cd_launcherlog C2ME Incompatibility with Compatibility Mods
+2026-03-01 21:55:41 - cd_launcherlog YesSteveModel incompatible with Linux
+2026-03-01 21:55:41 - cd_launcherlog FabricMC initialisation error
+2026-03-01 21:55:41 - cd_launcherlog PermissionsEx configuration issue
+2026-03-01 21:55:41 - cd_launcherlog Access denied when creating backup
+2026-03-01 21:55:41 - cd_launcherlog Problematic Block Entity
+2026-03-01 21:55:41 - cd_launcherlog Mod Dependency Missing Mandatory Field
+2026-03-01 21:55:41 - cd_launcherlog Moving Elevators and OptiFine Conflict
+2026-03-01 21:55:41 - cd_launcherlog Missing mod in world
+2026-03-01 21:55:41 - cd_launcherlog Stack Smashing Detected
+2026-03-01 21:55:41 - cd_launcherlog IPv4/6 Patch
+2026-03-01 21:55:41 - cd_launcherlog Unbound density functions
+2026-03-01 21:55:41 - cd_launcherlog Critical Conflict: Moonlight vs Iceberg (OpenGL without context)
+2026-03-01 21:55:41 - cd_launcherlog Missing mods.toml Metadata
+2026-03-01 21:55:41 - cd_launcherlog Fabric API and OptiFine Conflict
+2026-03-01 21:55:41 - [21:55:34] [Server thread/TRACE]: Closing config file type SERVER at create-server.toml for create
+2026-03-01 21:55:41 - cd_launcherlog Pirated Minecraft
+2026-03-01 21:55:41 - cd_launcherlog Casting error in Medieval Origins
+2026-03-01 21:55:41 - cd_launcherlog Conflict between OptiFine and Iris/Oculus
+2026-03-01 21:55:41 - cd_launcherlog Conflict between ModernFix and OptiFine
+2026-03-01 21:55:41 - cd_launcherlog Null pointer error (NullPointerException)
+2026-03-01 21:55:41 - cd_launcherlog Chunk loading exception
+2026-03-01 21:55:41 - cd_launcherlog Insufficient memory
+2026-03-01 21:55:41 - cd_launcherlog Method Not Found (NoSuchMethodError)
+2026-03-01 21:55:41 - cd_launcherlog Incompatible API Version
+2026-03-01 21:55:41 - cd_launcherlog Flywheel and Sodium version conflict
+2026-03-01 21:55:41 - cd_launcherlog Minecraft EULA not accepted
+2026-03-01 21:55:41 - cd_launcherlog Faulty ITransformationService
+2026-03-01 21:55:41 - cd_launcherlog Unsatisfied Link Error
+2026-03-01 21:55:44 - cd_launcherlog (tardía) Warning: Missing classes detected
+2026-03-01 21:55:44 - cd_launcherlog (tardía) Stack trace analysis
+2026-03-01 21:55:44 - razon <b style='color:#FF6347'>Illegal access between modules (JPMS) detected.</b><p>The Java Module System (JPMS) blocked access between classes.</p><p><b>Class attempting access:</b><br>io.netty.util.internal.PlatformDependent0$7 (module: io.netty.common)</p><p><b>Blocked class:</b><br>jdk.internal.misc.Unsafe (module: java.base)</p><p>This error occurs when a mod does not correctly declare exports or opens in its module-info.java.</p><p><b>Possible causes:</b></p><ul><li>The module does not export the required package.</li><li>The <b>opens</b> directive for reflection is missing.</li><li>The mod is not properly configured for JPMS.</li></ul><p>This issue must be fixed by the mod developer.</p><a href="lectador://cd_launcherlog:4711" style="color:56CCF2;">View in Log</a>
+2026-03-01 21:55:44 - razon <b style='color:#FF6347'>Critical error: Attempting to load class 'net/minecraft/client/Camera' in the server environment, but it is designed for client. <b>Use the 'Mod Tree' feature in the sidebar to find which mod is trying to load this class</b>. Mods are built specifically for one platform and do not work on the other.</b><br><a href="lectador://cd_launcherlog:2398" style="color:56CCF2;">View in Log</a>
+2026-03-01 21:55:44 - razon <b style='color:#FF6347'>You have fatal classes (FATAL) — this is very serious. Common causes include bad CoreMods or fatal dependency errors. You can use QuickFix to scan for mods with fatal classes. Missing fatal classes detected:</b><ul><li>com/sun/jna/Platform (oshi-core-6.2.2.jar) <a href="lectador://cd_launcherlog:3862" style="color:56CCF2;">View in Log</a></li></ul>
+2026-03-01 21:55:44 - razon <b style='color:#FFD700;'>Found mods that do not belong to any active platform (Forge, Fabric, etc.):<ul><li><code>./mods/foamfix-0.10.15-1.12.2.jar</code></li><li><code>./mods/BetterFps-1.4.8.jar</code></li></ul>This usually occurs when:<br>• Mods from <b>Fabric and Forge</b> are mixed in the same folder.<br>• A mod is installed for an incompatible version of Minecraft.<br>• The mod is corrupted or not a valid JAR file.</b>
+2026-03-01 21:55:44 - razon <b style='color:#FF6347'>Fixing the tops of logs is the top priority. The format is Level, Line. All logs have a numbering system. <br>Generally, you need to look at the lowest levels across all logs; traces with high levels are usually false positives. It's important to use your ability to read the console, as stack trace analysis isn't perfect when there are many traces.</b><br><span style='color: #56CCF2; font-weight: bold;'>cd_launcherlog</span><br><b style='color:#FF6347'>Found potentially problematic JAR files (Prioritise FATAL then Higher lvl then lower ln):</b><br><ul><li>zia000 <b style='color:#FF6347'>lvl: </b>22,4724 <a href="lectador://cd_launcherlog:4724" style="color:56CCF2;">View in Log</a> <a href="cfr://net/minecraft/server/Bootstrap">[CFR]</a></li><li>oshi-core-6.2.2.jar <b style='color:#FF6347'>lvl: </b>24,3840 <a href="lectador://cd_launcherlog:3840" style="color:56CCF2;">View in Log</a> <a href="cfr://oshi/SystemInfo">[CFR]</a></li></ul>
+2026-03-01 21:55:44 - razon <b style='color:#FFD700'>Warning: Missing classes detected (Warning level). Usually not critical, but can still cause issues — different from fatal class errors. Common causes include bad CoreMods or missing dependencies. You can use QuickFix to scan for mods with missing classes. Missing classes detected:</b><ul><li>com/happysg/radar/compat/cbc/CannonUtil - <a href="lectador://cd_launcherlog:1932" style="color:56CCF2;">View in Log</a></li><li>xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity - <a href="lectador://cd_launcherlog:2272" style="color:56CCF2;">View in Log</a></li><li>net/minecraft/client/Camera - <a href="lectador://cd_launcherlog:2447" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity - <a href="lectador://cd_launcherlog:2514" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/BonescallerEntity - <a href="lectador://cd_launcherlog:2561" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/DireHoundLeaderEntity - <a href="lectador://cd_launcherlog:2608" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ender_Guardian_Entity - <a href="lectador://cd_launcherlog:2655" style="color:56CCF2;">View in Log</a></li><li>com/eeeab/eeeabsmobs/sever/entity/corpse/EntityCorpseWarlock - <a href="lectador://cd_launcherlog:2702" style="color:56CCF2;">View in Log</a></li><li>com/eeeab/eeeabsmobs/sever/entity/guling/EntityGulingSentinelHeavy - <a href="lectador://cd_launcherlog:2749" style="color:56CCF2;">View in Log</a></li><li>com/majruszsdifficulty/treasurebag/listeners/KillRewarder - <a href="lectador://cd_launcherlog:2797" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Maledictus/Maledictus_Entity - <a href="lectador://cd_launcherlog:2844" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/MotherSpiderEntity - <a href="lectador://cd_launcherlog:2891" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/NewNetherite_Monstrosity/Netherite_Monstrosity_Entity - <a href="lectador://cd_launcherlog:2938" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Scylla/Scylla_Entity - <a href="lectador://cd_launcherlog:2985" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/SiameseSkeletonsEntity - <a href="lectador://cd_launcherlog:3032" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/SiameseSkeletonsleftEntity - <a href="lectador://cd_launcherlog:3079" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/SiameseSkeletonsrightEntity - <a href="lectador://cd_launcherlog:3126" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/SpiritGuideEntity - <a href="lectador://cd_launcherlog:3173" style="color:56CCF2;">View in Log</a></li><li>net/mcreator/borninchaosv/entity/SupremeBonescallerEntity - <a href="lectador://cd_launcherlog:3220" style="color:56CCF2;">View in Log</a></li><li>com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Harbinger_Entity - <a href="lectador://cd_launcherlog:3267" style="color:56CCF2;">View in Log</a></li><li>com/Polarice3/Goety/common/entities/boss/Vizier - <a href="lectador://cd_launcherlog:3314" style="color:56CCF2;">View in Log</a></li><li>uk/co/dotcode/asb/ModUtils - <a href="lectador://cd_launcherlog:3365" style="color:56CCF2;">View in Log</a></li><li>com/legacy/lucent/api/data/objects/EntityLighting$Builder - <a href="lectador://cd_launcherlog:3470" style="color:56CCF2;">View in Log</a></li><li>com/legacy/lucent/api/data/objects/ItemLighting$Builder - <a href="lectador://cd_launcherlog:3517" style="color:56CCF2;">View in Log</a></li></ul>

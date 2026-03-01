@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "RushXH",
+      "uniqueId": "3d010952-5f21-3998-9ed3-4bdb7749dc26"
+    },
+    "time": 1772401503753,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/97Aw0RW34Z"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RushXH",
+      "uniqueId": "3d010952-5f21-3998-9ed3-4bdb7749dc26"
+    },
+    "time": 1772385676472,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/U348KWFsym"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RushXH",
+      "uniqueId": "3d010952-5f21-3998-9ed3-4bdb7749dc26"
+    },
+    "time": 1772383442375,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/iyb6gQa4wN"
+    }
+  }
+]
